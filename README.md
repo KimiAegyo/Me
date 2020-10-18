@@ -1,7 +1,5 @@
 # Me
 
-## Hello World !
-
 ## Skills
 
 | Skills          | Level (%) |
